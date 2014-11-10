@@ -5,6 +5,8 @@ Time spent: `10`
 
 I spent sime times doing the animation and constructing the main view. I had an issue that i the tapevent was not really working for me on the tablecell, but i t woked on the viewcontroller. 
 
+It felt easier than the other exercises since i had already a working app.
+
 #### Required
 
 - [x] Dragging anywhere in the view should reveal the menu.
@@ -15,5 +17,5 @@ I spent sime times doing the animation and constructing the main view. I had an 
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/philolo1/codepath-twitter-v2/blob/master/twitter-v2.gif)
 
